@@ -17,18 +17,18 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100086747072197",
+    "100086734771592",
     "",
     "",
     "",
     ""
   ],
   "GOD": [
-    "100086747072197",
+    "100086734771592",
     ""
   ],
   "DEV": [
-    "100086747072197",
+    "100086734771592",
     ""
   ],
   "whiteListMode": {
@@ -37,8 +37,8 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "Roz'3li4 ",
-  "authorName": "D'3nish",
-  "authorFB": "fb.me/100086747072197",
+  "authorName": "Krish",
+  "authorFB": "fb.me/100086734771592",
   "authorEmail": "",
   "prefix": ",",
   "database": {
